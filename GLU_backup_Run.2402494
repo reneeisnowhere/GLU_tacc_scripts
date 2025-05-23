@@ -1,0 +1,12 @@
+[master e06f83c] Automated backup of updated scripts from scratch and work
+ 3 files changed, 95 insertions(+)
+ create mode 100644 concatenate_fastq.slurm
+ create mode 100644 fastqc.slurm
+ create mode 100644 multiqc.slurm
+
+(ssh-askpass:1411197): Gtk-WARNING **: 10:51:35.533: cannot open display: localhost:31.0
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
