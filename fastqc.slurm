@@ -18,7 +18,7 @@ module load multiqc
 
 cd "$MYSCRATCH/fastq_files/"
 
-other_dirs=(Ward_Run1113 Ward_Run1144_RepeatRun1113)
+other_dirs=(merged_fastq)
 
 for each_dir in "${other_dirs[@]}";do
 	echo "Processing directory $each_dir"
